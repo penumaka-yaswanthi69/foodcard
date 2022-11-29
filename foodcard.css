@@ -1,0 +1,28 @@
+.bgimg3{
+    background-color: white;
+}
+.explorehead{
+    color: #183b56;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.explorecards{
+    border-radius: 16px;
+}
+.exploreimage{
+    border-radius: 16px;
+}
+.cardhead4{
+    color: #323f4b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight:bold ;
+    margin-top: 24px;
+}
+.explorelink{
+    color: #c90202;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
